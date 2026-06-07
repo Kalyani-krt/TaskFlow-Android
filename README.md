@@ -1,16 +1,3 @@
-# 🚀 TaskFlow
-
-TaskFlow is a modern Android task management application built using Jetpack Compose and following MVVM architecture principles. The project demonstrates an Offline-First approach by combining Retrofit for remote data fetching and Room Database for local persistence, ensuring a seamless user experience even when network connectivity is unavailable.
-
-## ✨ Features
-
-* Create, update, and delete tasks
-* Offline-first data persistence using Room Database
-* Remote task synchronization using Retrofit and REST APIs
-* Reactive UI updates with StateFlow and Flow
-* Modern UI built entirely with Jetpack Compose and Material 3
-* Repository pattern for clean separation of concerns
-
 * # 🚀 TaskFlow
 
 TaskFlow is a modern Android task management application built using Jetpack Compose and following MVVM architecture principles. The project demonstrates an Offline-First approach by combining Retrofit for remote data fetching and Room Database for local persistence, ensuring a seamless user experience even when network connectivity is unavailable.
