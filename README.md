@@ -34,6 +34,7 @@ TaskFlow follows the MVVM (Model-View-ViewModel) architecture:
 * Material 3
 
 ## 📸 Screenshots
+TaskFlow provides a clean and reactive user experience for creating, updating, tracking, and managing tasks.
 
 <img width="200" height="450" alt="1000254957" src="https://github.com/user-attachments/assets/1eb7fa9c-71b9-41f6-ab4d-9036ec3e0b6f" />
 <img width="200" height="450" alt="1000254956" src="https://github.com/user-attachments/assets/dd01d169-013d-4517-b9b3-4f90615bf09b" />
@@ -56,4 +57,5 @@ TaskFlow follows the MVVM (Model-View-ViewModel) architecture:
 * Swipe-to-delete support
 
 ## 👩‍💻 Author
-Developed by Kalyani as part of a modern Android development portfolio project.
+Developed by Kalyani | Android Developer
+Focused on modern Android development using Kotlin, Jetpack Compose, MVVM, Coroutines, and Room Database.
