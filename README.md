@@ -48,9 +48,9 @@ TaskFlow follows the MVVM (Model-View-ViewModel) architecture:
 
 ## 📸 Screenshots
 
-<img width="200" height="600" alt="1000254957" src="https://github.com/user-attachments/assets/1eb7fa9c-71b9-41f6-ab4d-9036ec3e0b6f" />
-<img width="200" height="600" alt="1000254956" src="https://github.com/user-attachments/assets/dd01d169-013d-4517-b9b3-4f90615bf09b" />
-<img width="200" height="600" alt="1000254958" src="https://github.com/user-attachments/assets/504335de-cc8d-4f90-9013-a1c3fabb11f1" />
+<img width="200" height="450" alt="1000254957" src="https://github.com/user-attachments/assets/1eb7fa9c-71b9-41f6-ab4d-9036ec3e0b6f" />
+<img width="200" height="450" alt="1000254956" src="https://github.com/user-attachments/assets/dd01d169-013d-4517-b9b3-4f90615bf09b" />
+<img width="200" height="450" alt="1000254958" src="https://github.com/user-attachments/assets/504335de-cc8d-4f90-9013-a1c3fabb11f1" />
 
 
 ## 🚀 Getting Started
